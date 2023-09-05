@@ -1,0 +1,49 @@
+.cal{
+  width: 320px;
+  margin: 100px auto;
+  box-sizing: border-box;
+}
+#ans{
+  padding: 9px;
+  font-size: 35px;
+  width: 300px;
+  height: 80px;
+  background-color: #333333;
+  color: white;
+  text-align: right;
+  outline: none;
+  border-radius: 3px;
+}
+.btn{
+  color: white;
+  height: 80px;
+  width: 80px;
+  font-size: 30px;
+  float: left;
+  border: 1px solid black;
+}
+.btn1{
+  width: 160px;
+  background-color: #828382;
+}
+.btn2{
+  background-color:#FFA500;
+}
+.btn3{
+  background-color: #3B4248;
+}
+.btn4{
+  background-color: #828382;
+}
+.btn4:hover{
+  background-color: #FF6600;
+}
+.btn2:hover{
+  background-color: #336699;
+}
+.btn1:hover{
+  background-color: #FF6600;
+}
+.btn3:hover{
+  background-color: #336699;
+}
